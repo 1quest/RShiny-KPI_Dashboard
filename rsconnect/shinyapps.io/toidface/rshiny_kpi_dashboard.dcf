@@ -1,0 +1,11 @@
+name: rshiny_kpi_dashboard
+title:
+username:
+account: toidface
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5734464
+bundleId: 5618433
+url: https://toidface.shinyapps.io/rshiny_kpi_dashboard/
+when: 1645812912.73683
+lastSyncTime: 1645812912.73689

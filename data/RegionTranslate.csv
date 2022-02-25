@@ -1,0 +1,439 @@
+﻿Route;Country code;Country;Region;Prio
+AF;AF;Afghanistan;INT;
+DZ02;DZ;Algeria;INT;
+DZ05;DZ;Algeria;INT;
+VI;VI;Amer.Virgin Is.;INT;
+AD02;AD;Andorra;INT;
+AD05;AD;Andorra;INT;
+AO01;AO;Angola;INT;
+AO02;AO;Angola;INT;
+AO05;AO;Angola;INT;
+AI;AI;Anguilla;INT;
+AQ;AQ;Antarctica;INT;
+AG;AG;Antigua/Barbads;INT;
+AM05;AM;Armenia;INT;
+AW;AW;Aruba;INT;
+HVD02;HV;Austria - HVD;INT;
+HVD05;HV;Austria - HVD;INT;
+AZ02;AZ;Azerbaijan;INT;
+AZ05;AZ;Azerbaijan;INT;
+BS;BS;Bahamas;INT;
+BH02;BH;Bahrain;INT;
+BH05;BH;Bahrain;INT;
+BB;BB;Barbados;INT;
+BY05;BY;Belarus;INT;
+BT;BT;Bhutan;INT;
+BA02;BA;Bosnia and Herzegovina;INT;
+BA05;BA;Bosnia and Herzegovina;INT;
+BV;BV;Bouvet Island;INT;
+IO;IO;Brit.Ind.Oc.Ter;INT;
+VG;VG;Brit.Virgin Is.;INT;
+BG02;BG;Bulgaria;INT;
+BG05;BG;Bulgaria;INT;
+BI;BI;Burundi;INT;
+KH;KH;Cambodia;INT;
+CM;CM;Cameroon;INT;
+KY;KY;Cayman Islands;INT;
+CF;CF;Central Afr.Rep;INT;
+TD;TD;Chad;INT;
+CC;CC;Coconut Islands;INT;
+KM;KM;Comoro;INT;
+CG;CG;Congo;INT;
+HR02;HR;Croatia;INT;
+HR05;HR;Croatia;INT;
+CY02;CY;Cyprus;INT;
+CY05;CY;Cyprus;INT;
+TP;TP;East Timor;INT;
+EG02;EG;Egypt;INT;
+EG05;EG;Egypt;INT;
+ER;ER;Eritrea;INT;
+GF02;GF;French Guiana;INT;
+GF05;GF;French Guiana;INT;
+GM01;GM;Gambia;INT;
+GM02;GM;Gambia;INT;
+GM05;GM;Gambia;INT;
+GE02;GE;Georgia;INT;
+GE05;GE;Georgia;INT;
+GR01;GR;Greece;INT;
+GR02;GR;Greece;INT;
+GR05;GR;Greece;INT;
+GL02;GL;Greenland;INT;
+GL05;GL;Greenland;INT;
+GU;GU;Guam;INT;
+GN;GN;Guinea;INT;
+GW;GW;Guinea-Bissau;INT;
+HM;HM;Heard/McDon.Isl;INT;
+VA02;VA;Holy See (the);INT;
+VA05;VA;Holy See (the);INT;
+HU01;HU;Hungary;INT;
+HU02;HU;Hungary;INT;
+HU05;HU;Hungary;INT;
+IS02;IS;Iceland;INT;
+IS05;IS;Iceland;INT;
+IQ02;IQ;Iraq;INT;
+IQ05;IQ;Iraq;INT;
+JO02;JO;Jordan;INT;
+JO05;JO;Jordan;INT;
+KZ02;KZ;Kazakhstan;INT;
+KZ05;KZ;Kazakhstan;INT;
+KI;KI;Kiribati;INT;
+KW02;KW;Kuwait;INT;
+KW05;KW;Kuwait;INT;
+KG02;KG;Kyrgyzstan;INT;
+KG05;KG;Kyrgyzstan;INT;
+LA;LA;Laos;INT;
+LB02;LB;Lebanon;INT;
+LB05;LB;Lebanon;INT;
+LR;LR;Liberia;INT;
+LI02;LI;Liechtenstein;INT;
+LI05;LI;Liechtenstein;INT;
+MO;MO;Macau;INT;
+ML;ML;Mali;INT;
+MQ02;MQ;Martinique;INT;
+MQ05;MQ;Martinique;INT;
+MR;MR;Mauretania;INT;
+YT;YT;Mayotte;INT;
+UM;UM;Minor Outl.Isl.;INT;
+MN;MN;Mongolia;INT;
+MS;MS;Montserrat;INT;
+MA02;MA;Morocco;INT;
+MA05;MA;Morocco;INT;
+MZ01;MZ;Mozambique;INT;
+MZ02;MZ;Mozambique;INT;
+MZ05;MZ;Mozambique;INT;
+MM;MM;Myanmar;INT;
+MP;MP;N.Mariana Islnd;INT;
+NR;NR;Nauru;INT;
+NP01;NP;Nepal;INT;
+NP02;NP;Nepal;INT;
+NP05;NP;Nepal;INT;
+NC02;NC;New Caledonia;INT;
+NC05;NC;New Caledonia;INT;
+NE;NE;Niger;INT;
+NU;NU;Niue Islands;INT;
+NF;NF;Norfolk Island;INT;
+KP;KP;North Korea;INT;
+MK02;MK;North Macedonia;INT;
+MK05;MK;North Macedonia;INT;
+OM02;OM;Oman;INT;
+OM05;OM;Oman;INT;
+PN;PN;Pitcairn Islnds;INT;
+PL01;PL;Poland;INT;
+PL02;PL;Poland;INT;
+PL05;PL;Poland;INT;
+PR;PR;Puerto Rico;INT;
+QA02;QA;Qatar;INT;
+QA05;QA;Qatar;INT;
+RETURN;RE;RETURN;INT;
+RE02;RE;Réunion;INT;
+RE05;RE;Réunion;INT;
+RU02;RU;Russian Federation;INT;
+RU05;RU;Russian Federation;INT;
+RW;RW;Rwanda;INT;
+ST;ST;S.Tome,Principe;INT;
+AS;AS;Samoa,American;INT;
+SA02;SA;Saudi Arabia;INT;
+SA05;SA;Saudi Arabia;INT;
+SN01;SN;Senegal;INT;
+SN02;SN;Senegal;INT;
+SN05;SN;Senegal;INT;
+RS02;RS;Serbia;INT;
+RS05;RS;Serbia;INT;
+CS02;CS;Serbia and Montenegro;INT;
+CS05;CS;Serbia and Montenegro;INT;
+SC;SC;Seychelles;INT;
+SG02;SG;Singapore;INT;
+SG05;SG;Singapore;INT;
+SI02;SI;Slovenia;INT;
+SI05;SI;Slovenia;INT;
+SB;SB;Solomon Islands;INT;
+SO;SO;Somalia;INT;
+KN;KN;St Kitts&Nevis;INT;
+SH;SH;St. Helena;INT;
+LC;LC;St. Lucia;INT;
+VC;VC;St. Vincent;INT;
+PM;PM;St.Pier,Miquel.;INT;
+STL;STL;stateless;INT;
+GS;GS;Sth Sandwich Is;INT;
+TF;TF;Sth Terr. Franc;INT;
+SD;SD;Sudan;INT;
+SR;SR;Suriname;INT;
+SJ;SJ;Svalbard;INT;
+TJ;TJ;Tadzhikistan;INT;
+TH02;TH;Thailand;INT;
+TH05;TH;Thailand;INT;
+TG;TG;Togo;INT;
+TK;TK;Tokelau Islands;INT;
+TO;TO;Tonga;INT;
+TN02;TN;Tunisia;INT;
+TN05;TN;Tunisia;INT;
+TR02;TR;Turkey;INT;
+TR05;TR;Turkey;INT;
+TM05;TM;Turkmenistan;INT;
+TC;TC;Turksh Caicosin;INT;
+UA02;UA;Ukraine;INT;
+UA05;UA;Ukraine;INT;
+AE02;AE;United Arab Emirates;INT;
+AE05;AE;United Arab Emirates;INT;
+UZ;UZ;Uzbekistan;INT;
+WF;WF;Wallis,Futuna;INT;
+VU;VU;Vanuatu;INT;
+VE02;VE;Venezuela;INT;
+VE05;VE;Venezuela;INT;
+EH;EH;West Sahara;INT;
+WS;WS;Western Samoa;INT;
+VN02;VN;Viet Nam;INT;
+VN05;VN;Viet Nam;INT;
+YE;YE;Yemen;INT;
+YU02;YU;Yugoslavia;INT;
+YU05;YU;Yugoslavia;INT;
+ZR;ZR;Zaire;INT;
+AN02;AN;Antillen Engels;INT;4
+AN05;AN;Antillen Engels;INT;4
+AR02;AR;Argentina;INT;4
+AR05;AR;Argentina;INT;4
+AU01;AU;Australia;INT;4
+AU02;AU;Australia;INT;4
+AU05;AU;Australia;INT;4
+BW01;BW;Botswana;INT;3
+BW02;BW;Botswana;INT;3
+BW05;BW;Botswana;INT;3
+BR01;BR;Brazil;INT;3
+BR02;BR;Brazil;INT;3
+BR05;BR;Brazil;INT;3
+CA01;CA;Canada;INT;4
+CA02;CA;Canada;INT;4
+CA05;CA;Canada;INT;4
+CL02;CL;Chile;INT;4
+CL05;CL;Chile;INT;4
+CN01;CN;China;INT;3
+CN02;CN;China;INT;3
+CN05;CN;China;INT;3
+CO02;CO;Colombia;INT;4
+CO05;CO;Colombia;INT;4
+CR02;CR;Costa Rica;INT;4
+CR05;CR;Costa Rica;INT;4
+DO02;DO;Dominican Republic;INT;4
+DO05;DO;Dominican Republic;INT;4
+SV02;SV;El Salvador;INT;4
+SV05;SV;El Salvador;INT;4
+SZ01;SZ;Eswatini;INT;2
+SZ02;SZ;Eswatini;INT;2
+SZ05;SZ;Eswatini;INT;2
+DE01;DE;Germany;INT;3
+DE02;DE;Germany;INT;3
+DE05;DE;Germany;INT;3
+GH01;GH;Ghana;INT;2
+GH02;GH;Ghana;INT;2
+GH05;GH;Ghana;INT;2
+GT02;GT;Guatemala;INT;4
+GT05;GT;Guatemala;INT;4
+HK02;HK;Hong Kong;INT;3
+HK05;HK;Hong Kong;INT;3
+IN02;IN;India;INT;3
+IN05;IN;India;INT;3
+IL01;IL;Israel;INT;3
+IL02;IL;Israel;INT;3
+IL05;IL;Israel;INT;3
+KE01;KE;Kenya;INT;2
+KE02;KE;Kenya;INT;2
+KE05;KE;Kenya;INT;2
+KR02;KR;Korea;INT;3
+KR05;KR;Korea;INT;3
+LS01;LS;Lesotho;INT;3
+LS02;LS;Lesotho;INT;3
+LS05;LS;Lesotho;INT;3
+MW01;MW;Malawi;INT;2
+MW02;MW;Malawi;INT;2
+MW05;MW;Malawi;INT;2
+MY02;MY;Malaysia;INT;4
+MY05;MY;Malaysia;INT;4
+MV01;MV;Maldives;INT;4
+MV02;MV;Maldives;INT;4
+MV05;MV;Maldives;INT;4
+MX02;MX;Mexico;INT;4
+MX05;MX;Mexico;INT;4
+NA01;NA;Namibia;INT;2
+NA02;NA;Namibia;INT;2
+NA05;NA;Namibia;INT;2
+NZ02;NZ;New Zealand;INT;4
+NZ05;NZ;New Zealand;INT;4
+NG01;NG;Nigeria;INT;2
+NG02;NG;Nigeria;INT;2
+NG05;NG;Nigeria;INT;2
+PA02;PA;Panama;INT;4
+PA05;PA;Panama;INT;4
+PE02;PE;Peru;INT;4
+PE05;PE;Peru;INT;4
+PH02;PH;Philippines;INT;4
+PH05;PH;Philippines;INT;4
+RO02;RO;Romania;INT;2
+RO05;RO;Romania;INT;2
+ZA01;ZA;South Africa;INT;3
+ZA02;ZA;South Africa;INT;3
+ZA05;ZA;South Africa;INT;3
+LK02;LK;Sri Lanka;INT;4
+LK05;LK;Sri Lanka;INT;4
+TW02;TW;Taiwan;INT;3
+TW05;TW;Taiwan;INT;3
+UG01;UG;Uganda;INT;2
+UG02;UG;Uganda;INT;2
+UG05;UG;Uganda;INT;2
+UY02;UY;Uruguay;INT;4
+UY05;UY;Uruguay;INT;4
+ZM01;ZM;Zambia;INT;2
+ZM02;ZM;Zambia;INT;2
+ZM05;ZM;Zambia;INT;2
+ZW01;ZW;Zimbabwe;INT;2
+ZW02;ZW;Zimbabwe;INT;2
+ZW05;ZW;Zimbabwe;INT;2
+AT01;AT;Austria;EU;2
+AT02;AT;Austria;EU;2
+AT05;AT;Austria;EU;2
+BE01;BE;Belgium;EU;2
+BE02;BE;Belgium;EU;2
+BE05;BE;Belgium;EU;2
+CZ01;CZ;Czechia;EU;2
+CZ02;CZ;Czechia;EU;2
+CZ05;CZ;Czechia;EU;2
+DK01;DK;Denmark;EU;2
+DK02;DK;Denmark;EU;2
+DK05;DK;Denmark;EU;2
+EE01;EE;Estonia;EU;2
+EE02;EE;Estonia;EU;2
+EE05;EE;Estonia;EU;2
+FI01;FI;Finland;EU;2
+FI02;FI;Finland;EU;2
+FI05;FI;Finland;EU;2
+FR01;FR;France;EU;2
+FR02;FR;France;EU;2
+FR05;FR;France;EU;2
+IE01;IE;Ireland;EU;2
+IE02;IE;Ireland;EU;2
+IE05;IE;Ireland;EU;2
+IT01;IT;Italy;EU;2
+IT02;IT;Italy;EU;2
+IT05;IT;Italy;EU;2
+JP01;JP;Japan;Japan;3
+JP02;JP;Japan;Japan;3
+JP05;JP;Japan;Japan;3
+LT01;LT;Lithuania;EU;2
+LT02;LT;Lithuania;EU;2
+LT05;LT;Lithuania;EU;2
+MU02;MU;Mauritius;;2
+MU05;MU;Mauritius;;2
+NL01;NL;Netherlands;EU;2
+NL02;NL;Netherlands;EU;2
+NL05;NL;Netherlands;EU;2
+NO01;NO;Norway;EU;1
+NO02;NO;Norway;EU;1
+NO05;NO;Norway;EU;1
+PT01;PT;Portugal;EU;2
+PT02;PT;Portugal;EU;2
+PT05;PT;Portugal;EU;2
+SK01;SK;Slovakia;EU;2
+SK02;SK;Slovakia;EU;2
+SK05;SK;Slovakia;EU;2
+ES01;ES;Spain;EU;2
+ES02;ES;Spain;EU;2
+ES05;ES;Spain;EU;2
+SE01;SE;Sweden;EU;2
+SE02;SE;Sweden;EU;2
+SE05;SE;Sweden;EU;2
+CH01;CH;Switzerland;EU;1
+CH02;CH;Switzerland;EU;1
+CH05;CH;Switzerland;EU;1
+GB01;GB;UK & Northern Ireland;EU;2
+GB02;GB;UK & Northern Ireland;EU;2
+GB05;GB;UK & Northern Ireland;EU;2
+US01;US;USA;USA;3
+US02;US;USA;USA;3
+US05;US;USA;USA;3
+BF;BF;Burkina-Faso;EU;
+CK;CK;Cook Islands;EU;
+DM;DM;Dominica;EU;
+ET;ET;Ethiopia;EU;
+FK;FK;Falkland Islnds;EU;
+FJ;FJ;Fiji;EU;
+GA;GA;Gabon;EU;
+GD;GD;Grenada;EU;
+CI;CI;Ivory Coast;EU;
+JM;JM;Jamaica;EU;
+LU01;LU;Luxembourg;EU;
+LU02;LU;Luxembourg;EU;
+LU05;LU;Luxembourg;EU;
+FM;FM;Micronesia;EU;
+PW;PW;Palau;EU;
+SM02;SM;San Marino;EU;
+SM05;SM;San Marino;EU;
+SL;SL;Sierra Leone;EU;
+AL02;AL;Albania;;
+AL05;AL;Albania;;
+BD02;BD;Bangladesh;;
+BD05;BD;Bangladesh;;
+BZ02;BZ;Belize;;
+BZ05;BZ;Belize;;
+BJ01;BJ;Benin;;
+BJ02;BJ;Benin;;
+BJ05;BJ;Benin;;
+BM;BM;Bermuda;;
+BO02;BO;Bolivia;;
+BO05;BO;Bolivia;;
+BN02;BN;Brunei Darussalam;;
+BN05;BN;Brunei Darussalam;;
+CV;CV;Cape Verde;;
+CX;CX;Christmas Islnd;;
+CU02;CU;Cuba;;
+CU05;CU;Cuba;;
+DJ01;DJ;Djibouti;;
+DJ02;DJ;Djibouti;;
+DJ05;DJ;Djibouti;;
+EC02;EC;Ecuador;;
+EC05;EC;Ecuador;;
+GQ;GQ;Equatorial Guin;;
+FO02;FO;Faroe Islands;;
+FO05;FO;Faroe Islands;;
+PF02;PF;French Polynesia;;
+PF05;PF;French Polynesia;;
+GI02;GI;Gibraltar;;
+GI05;GI;Gibraltar;;
+GP02;GP;Guadeloupe;;
+GP05;GP;Guadeloupe;;
+GY02;GY;Guyana;;
+GY05;GY;Guyana;;
+HT02;HT;Haiti;;
+HT05;HT;Haiti;;
+HN02;HN;Honduras;;
+HN05;HN;Honduras;;
+ID02;ID;Indonesia;;
+ID05;ID;Indonesia;;
+IR02;IR;Iran;;
+IR05;IR;Iran;;
+LV02;LV;Latvia;;
+LV05;LV;Latvia;;
+LY;LY;Libya;;
+MG;MG;Madagascar;;
+MT02;MT;Malta;;
+MT05;MT;Malta;;
+MH;MH;Marshall Islnds;;
+MD;MD;Moldavia;;
+MC02;MC;Monaco;;
+MC05;MC;Monaco;;
+ME02;ME;Montenegro;;
+ME05;ME;Montenegro;;
+NI02;NI;Nicaragua;;
+NI05;NI;Nicaragua;;
+PK02;PK;Pakistan;;
+PK05;PK;Pakistan;;
+PG;PG;Pap. New Guinea;;
+PY02;PY;Paraguay;;
+PY05;PY;Paraguay;;
+SY01;SY;Syrian;;
+SY02;SY;Syrian;;
+SY05;SY;Syrian;;
+TZ01;TZ;Tanzania;;
+TZ02;TZ;Tanzania;;
+TZ05;TZ;Tanzania;;
+TT02;TT;Trinidad and Tobago;;
+TT05;TT;Trinidad and Tobago;;
+TV;TV;Tuvalu;;
