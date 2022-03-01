@@ -79,7 +79,7 @@ server <- function(input, output, session) {
   })
 
   # ASKQ: Ask what the point of this KPI is
-  order_today <- filter(data_odh, as.Date(data_odh$DELIVERYTIME) == as.Date(today()), STATUS <= 20)
+  order_today <- filter(data_odh, as.Date(data_odh$DELIVERYTIME) == as.Date(as.Date("24feb2022","%d%b%Y")), STATUS <= 20)
   output$order_lines_total <- renderValueBox({
     valueBox(
       value = tags$p(sum(order_today[, 'NOOFLINES']), style="font-size:50px"),
@@ -95,7 +95,7 @@ ize:30px"),
   # AND where status is less than or equal to 20
   # First find the correct order:
 
-  order_latest <- filter(data_odh, as.Date(data_odh$DELIVERYTIME) == as.Date(today()), STATUS <= 20)
+  order_latest <- filter(data_odh, as.Date(data_odh$DELIVERYTIME) == as.Date(as.Date("24feb2022","%d%b%Y")), STATUS <= 20)
   output$order_lines_today <- renderValueBox({
     valueBox(
       value = tags$p(nrow(order_latest),style="font-size:50px"),
